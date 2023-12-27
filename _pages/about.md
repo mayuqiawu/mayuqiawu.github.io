@@ -20,8 +20,8 @@ My research interests lie in optimization algorithms. Currently, I have been wor
 
 Publications
 ======
-* Y. Wu, S. Pan and S. Bi. Kurdyka–Łojasiewicz Property of Zero-Norm Composite Functions. Journal of Optimization Theory and Applications, 188 (2021), pp. 94--112. [Link](https://link.springer.com/article/10.1007/s10957-020-01779-7) [arXiv](https://arxiv.org/abs/1811.04371) [Erratum](https://link.springer.com/article/10.1007/s10957-021-01855-6)
-* Y. Wu, S. Pan and X. Yang. A Regularized Newton Method for Lq-norm Composite Optimization problems. SIAM Journal on Optimization, 33(2023), pp. 1676–1706. [Link](https://epubs.siam.org/doi/full/10.1137/22M1482822) [arXiv](https://arxiv.org/abs/2203.02957) [Code](https://github.com/YuqiaWU/HpgSRN)
+* Y. Wu, S. Pan and S. Bi. Kurdyka–Łojasiewicz Property of Zero-Norm Composite Functions. Journal of Optimization Theory and Applications, 188 (2021), pp. 94--112. [Paper](https://link.springer.com/article/10.1007/s10957-020-01779-7) [arXiv](https://arxiv.org/abs/1811.04371) [Erratum](https://link.springer.com/article/10.1007/s10957-021-01855-6)
+* Y. Wu, S. Pan and X. Yang. A Regularized Newton Method for Lq-norm Composite Optimization problems. SIAM Journal on Optimization, 33(2023), pp. 1676–1706. [Paper](https://epubs.siam.org/doi/full/10.1137/22M1482822) [arXiv](https://arxiv.org/abs/2203.02957) [Code](https://github.com/YuqiaWU/HpgSRN)
 
 Preprint
 ======
