@@ -12,7 +12,7 @@ About me
 ======
 Welcome to my homepage! 
 
-I am currently a PhD candidate at Department of Applied Mathematics of the Hong Kong Polytechinic University under the supervision of Prof. Xiaoqi Yang. I completed my Bachelor’s degree in applied mathematics at South China University of Technology in 2018, where I spent two years studying as a master student under the supervision of Prof. Shaohua Pan. Without getting a master degree, I went to the Hong Kong Polytechnic University to persue a PhD degree in Sept. 2020.
+I am currently a PhD candidate at Department of Applied Mathematics of the Hong Kong Polytechinic University under the supervision of Prof. [Xiaoqi Yang](https://www.polyu.edu.hk/ama/profile/xqyang/). I completed my Bachelor’s degree in applied mathematics at South China University of Technology in 2018, where I spent two years studying as a master student under the supervision of Prof. Shaohua Pan. Without getting a master degree, I went to the Hong Kong Polytechnic University to persue a PhD degree in Sept. 2020.
 
 Research Interests
 ======
@@ -25,6 +25,7 @@ Publications
 
 Preprint
 ======
-* R. Liu, S. Pan, Y. Wu and X. Yang. An Inexact Regularized Proximal Newton Method for Nonconvex and Nonsmooth Optimization. arXiv:2209.09119. [Link](https://arxiv.org/abs/2209.09119) (Submitted to Computational Optimization and Applications)
+* R. Liu, S. Pan, Y. Wu and X. Yang. An Inexact Regularized Proximal Newton Method for Nonconvex and Nonsmooth Optimization. arXiv:2209.09119. [Link](https://arxiv.org/abs/2209.09119) 
+* Y. Wu, S. Pan and X. Yang. An Inexact Projected Regularized Newton Method for Fused Zero-norms Regularization Problems. arXiv:2312.15718. [Link](https://arxiv.org/abs/2312.15718)
 
 <a href="https://mapmyvisitors.com/web/1bvhl"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=RTxUY1WyblsCPz6_8IRG_0FEXkP0Xb9mQT0OgDFGfB0&cl=ffffff" /></a>
