@@ -25,7 +25,7 @@ Publications
 
 Preprint
 ======
-* R. Liu, S. Pan, Y. Wu and X. Yang. An Inexact Regularized Proximal Newton Method for Nonconvex and Nonsmooth Optimization. arXiv:2209.09119. [Link](https://arxiv.org/abs/2209.09119) 
-* Y. Wu, S. Pan and X. Yang. An Inexact Projected Regularized Newton Method for Fused Zero-norms Regularization Problems. arXiv:2312.15718. [Link](https://arxiv.org/abs/2312.15718)
+* R. Liu, S. Pan, Y. Wu and X. Yang. An Inexact Regularized Proximal Newton Method for Nonconvex and Nonsmooth Optimization. arXiv:2209.09119. [arXiv](https://arxiv.org/abs/2209.09119) 
+* Y. Wu, S. Pan and X. Yang. An Inexact Projected Regularized Newton Method for Fused Zero-norms Regularization Problems. arXiv:2312.15718. [arXiv](https://arxiv.org/abs/2312.15718)
 
 <a href="https://mapmyvisitors.com/web/1bvhl"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=RTxUY1WyblsCPz6_8IRG_0FEXkP0Xb9mQT0OgDFGfB0&cl=ffffff" /></a>
