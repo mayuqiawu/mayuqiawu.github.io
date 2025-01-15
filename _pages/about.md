@@ -25,6 +25,23 @@ Publications
 * R. Liu, S. Pan, Y. Wu and X. Yang. An Inexact Regularized Proximal Newton Method for Nonconvex and Nonsmooth Optimization. Computational Optimization and Applications, 88 (2024), pp. 603–641. [arXiv](https://arxiv.org/abs/2209.09119) 
 * Y. Wu, S. Pan and X. Yang. An Inexact Projected Regularized Newton Method for Fused Zero-norms Regularization Problems. Journal of Machine Learning Research, 25 (2024), pp. 1–48. [Paper](https://www.jmlr.org/papers/v25/23-1700.html)
  
+<!-- Map section, hidden by default -->
+<div id="map-container" style="display: none;">
+    <a href="https://mapmyvisitors.com/web/1bvhl"  title="Visit tracker">
+        <img src="https://mapmyvisitors.com/map.png?d=RTxUY1WyblsCPz6_8IRG_0FEXkP0Xb9mQT0OgDFGfB0&cl=ffffff" alt="Map Tracker" />
+    </a>
+</div>
 
-
-<a href="https://mapmyvisitors.com/web/1bvhl"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=RTxUY1WyblsCPz6_8IRG_0FEXkP0Xb9mQT0OgDFGfB0&cl=ffffff" /></a>
+<script>
+    // Allow you to toggle the visibility of the map by pressing "Ctrl + M"
+    document.addEventListener('keydown', function(event) {
+        if (event.ctrlKey && event.key === 'm') {
+            const mapContainer = document.getElementById('map-container');
+            if (mapContainer.style.display === 'none') {
+                mapContainer.style.display = 'block';
+            } else {
+                mapContainer.style.display = 'none';
+            }
+        }
+    });
+</script>
