@@ -12,7 +12,7 @@ About me
 ======
 Welcome to my homepage! 
 
-I am currently an Assistant Professor in [School of Mathematical Sciences](https://math.szu.edu.cn/), Shenzhen University. Prior to this, I got my PhD degree from [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) of the Hong Kong Polytechnic University under the supervision of Prof. [Xiaoqi Yang](https://www.polyu.edu.hk/ama/profile/xqyang/) in Sept 2024. I completed my Bachelor’s degree in Applied Mathematics at South China University of Technology in June 2018, where I spent two years as a master student under the supervision of Prof. [Shaohua Pan](https://www2.scut.edu.cn/math/2017/1227/c14582a242164/page.htm). I joined Shenzhen University in Dec 2024.
+I am currently an Assistant Professor in [School of Mathematical Sciences](https://math.szu.edu.cn/), Shenzhen University. Prior to this, I got my PhD degree from [Department of Applied Mathematics](https://www.polyu.edu.hk/ama/) of the Hong Kong Polytechnic University under the supervision of Prof. [Xiaoqi Yang](https://www.polyu.edu.hk/ama/profile/xqyang/) in Sept 2024. I completed my Bachelor’s degree in Applied Mathematics at South China University of Technology in June 2018, where I spent two years as a master student under the supervision of Prof. [Shaohua Pan](https://www2.scut.edu.cn/math/2017/1227/c14582a242164/page.htm). I joined Shenzhen University in Nov 2024.
 
 Research Interests
 ======
