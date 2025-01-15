@@ -22,7 +22,7 @@ Publications
 ======
 * Y. Wu, S. Pan and S. Bi. Kurdyka–Łojasiewicz Property of Zero-Norm Composite Functions. Journal of Optimization Theory and Applications, 188 (2021), pp. 94--112. [Paper](https://link.springer.com/article/10.1007/s10957-020-01779-7) [arXiv](https://arxiv.org/abs/1811.04371) [Erratum](https://link.springer.com/article/10.1007/s10957-021-01855-6)
 * Y. Wu, S. Pan and X. Yang. A Regularized Newton Method for Lq-norm Composite Optimization problems. SIAM Journal on Optimization, 33(2023), pp. 1676–1706. [Paper](https://epubs.siam.org/doi/full/10.1137/22M1482822) [arXiv](https://arxiv.org/abs/2203.02957) [Code](https://github.com/YuqiaWU/HpgSRN)
-* R. Liu, S. Pan, Y. Wu and X. Yang. An Inexact Regularized Proximal Newton Method for Nonconvex and Nonsmooth Optimization. Computational Optimization and Applications, 88 (2024), pp. 603–641. [arXiv](https://arxiv.org/abs/2209.09119) [paper](https://link.springer.com/article/10.1007/s10589-024-00560-0)
+* R. Liu, S. Pan, Y. Wu and X. Yang. An Inexact Regularized Proximal Newton Method for Nonconvex and Nonsmooth Optimization. Computational Optimization and Applications, 88 (2024), pp. 603–641. [Paper](https://link.springer.com/article/10.1007/s10589-024-00560-0) [arXiv](https://arxiv.org/abs/2209.09119) 
 * Y. Wu, S. Pan and X. Yang. An Inexact Projected Regularized Newton Method for Fused Zero-norms Regularization Problems. Journal of Machine Learning Research, 25 (2024), pp. 1–48. [Paper](https://www.jmlr.org/papers/v25/23-1700.html)
  
 <!-- Map section, hidden by default -->
