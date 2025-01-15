@@ -12,7 +12,7 @@ About me
 ======
 Welcome to my homepage! 
 
-I am currently a PhD candidate at Department of Applied Mathematics of the Hong Kong Polytechinic University under the supervision of Prof. [Xiaoqi Yang](https://www.polyu.edu.hk/ama/profile/xqyang/). I completed my Bachelor’s degree in applied mathematics at South China University of Technology in 2018, where I spent two years studying as a master student under the supervision of Prof. Shaohua Pan. Without getting a master degree, I went to the Hong Kong Polytechnic University to persue a PhD degree in Sept. 2020.
+I am currently an Assistant Professor in School of Mathematical Sciences, Shenzhen University. Prior to this, I got my PhD degree from Department of Applied Mathematics of the Hong Kong Polytechnic University under the supervision of Prof. [Xiaoqi Yang](https://www.polyu.edu.hk/ama/profile/xqyang/). I completed my Bachelor’s degree in Applied Mathematics at South China University of Technology in 2018, where I spent two years as a master student under the supervision of Prof. Shaohua Pan. Without getting a master degree, I went to the Hong Kong Polytechnic University to persue a PhD degree in Sept. 2020.
 
 Research Interests
 ======
