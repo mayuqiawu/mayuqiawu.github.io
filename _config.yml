@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Hong Kong"
+locale                   : "Shenzhen"
 title                    : "Yuqia Wu's homepage"
 title_separator          : ""
 name                     : &name "Yuqia Wu"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuqia Wu"
+  name             : "Yuqia Wu (吴育洽)"
   avatar           : "职业照.jpg"
   bio              : ""
   location         : "Shenzhen"
