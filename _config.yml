@@ -10,7 +10,7 @@ locale                   : "Hong Kong"
 title                    : "Yuqia Wu's homepage"
 title_separator          : ""
 name                     : &name "Yuqia Wu"
-description              : &description "PhD candidate"
+description              : &description "Assistant Professor"
 url                      : https://mayuqiawu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mayuqiawu/mayuqiawu.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Yuqia Wu"
   avatar           : "profile.png"
   bio              : ""
-  location         : "Hong Kong"
+  location         : "Shenzhen"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "yuqia.wu@connect.polyu.hk"
+  email            : "mayuqiawu@szu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
